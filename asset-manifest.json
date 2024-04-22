@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/note-keeper/static/js/main.7eaba52f.js",
+    "static/js/453.f2cee86e.chunk.js": "/note-keeper/static/js/453.f2cee86e.chunk.js",
+    "index.html": "/note-keeper/index.html",
+    "main.7eaba52f.js.map": "/note-keeper/static/js/main.7eaba52f.js.map",
+    "453.f2cee86e.chunk.js.map": "/note-keeper/static/js/453.f2cee86e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7eaba52f.js"
+  ]
+}
